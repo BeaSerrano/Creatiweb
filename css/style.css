@@ -1,0 +1,72 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Space Mono', monospace;
+}
+
+p, a{
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.bg-rosa{
+    background-color: #FF7BAC;
+}
+
+nav > div > ul > li > a:hover {
+    color:#587BE1;
+}
+
+.titulo-home{
+    font-size: 140px;
+}
+
+.subtitulo-home{
+    font-size: 24px;
+}
+
+.btn-azul{
+    background-color: #587BE1;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 12px 29px;
+}
+
+.btn-azul:hover{
+    background-color: #333333;
+}
+
+.bg-header{
+    background-image: url(../img/home-ilustracion.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x:80%;
+}
+
+.icono-azul{
+    font-size: 50px;
+    color: #587BE1;
+}
+
+.icono-equipo{
+    font-size: 11px;
+    color:white;
+    background-color: #587BE1;
+    padding: 15px;
+    margin:10px;
+    border-radius:150px;
+}
+
+.bg-banner{
+    background-color: #FEADE7;
+    height: 350px;
+}
+
+.bg-footer{
+    background-color: #333333;
+    height: 350px;
+}
+
+.icono-footer{
+    font-size: 20px;
+    color:#FF7BAC;
+    margin:10px;
+}
